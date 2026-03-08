@@ -1,8 +1,10 @@
 
-- [Exercices](#Exercices)
+
 
 
 # Introduction
+
+- [Exercices](#Exercices)
 
 We will learn how to run a basic _Node.js_ HTTP server and setup our project structure using the _Express_ framework.
 Secondly, we will understand how to create the Model of our project (from the MVC pattern) and learn how the _Sequelize_ package will help us creating the relational database schema and perform operations on the Maria Database.
